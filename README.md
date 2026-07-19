@@ -1,3 +1,7 @@
+Github : https://github.com/akkinasriramchandu-max/CampusHub
+
+LiveLink: https://vishnu-campus-hub.netlify.app/
+
 # College Event Management Portal (MERN Stack)
 
 A full-stack College Event Management Portal built with **MongoDB, Express, React, Node.js (MERN)** and **Tailwind CSS**.
